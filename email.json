@@ -1,0 +1,6 @@
+{
+    "email" : "EMAIL ADDRESS" ,
+    "password" : "EMAIL PASSWORD" ,
+    "server" : "SMTP SERVER/HOST",
+    "port" : "SMTP PORT"
+}
